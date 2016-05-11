@@ -33,7 +33,7 @@ public class CauThu extends NhanVien{
 	public void setSoLuotTranThamGia(int soLuotTranThamGia) {
 		this.soLuotTranThamGia = soLuotTranThamGia;
 	}
-	public int getBanThang() {
+	public int getBanThang() {ikhk
 		return banThang;
 	}
 	public void setBanThang(int banThang) {
